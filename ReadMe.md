@@ -17,6 +17,6 @@ It might still work if ZED Explorer can not open camera
 
 # TASKS
 
-> [] Develop QThread start/stop \
-> [] Set frames to UI \
-> [] Test and Debug
+> - [ ] Develop QThread start/stop \
+> - [ ] Set frames to UI \
+> - [ ] Test and Debug
